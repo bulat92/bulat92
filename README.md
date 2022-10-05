@@ -5,4 +5,4 @@
   - 
 Моя страница в VK https://vk.com/bulatm92
 
-[![(https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg)](https://vk.com/bulatm92)
+[![(100,100)](https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg)](https://vk.com/bulatm92)
