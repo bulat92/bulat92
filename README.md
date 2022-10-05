@@ -5,4 +5,4 @@
   - 
 Моя страница в VK https://vk.com/bulatm92
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://vk.com/bulatm92)
+[![](https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg)](https://vk.com/bulatm92)
