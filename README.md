@@ -3,4 +3,6 @@
   - 🌱 Я продолжаю учится работать с React 
   - :bomb: Хочу научится делать крутые необычные сайты 
   - 
-$${\color{blue}Blue}$$ Моя страница в VK https://vk.com/bulatm92
+Моя страница в VK https://vk.com/bulatm92
+
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
