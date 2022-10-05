@@ -5,4 +5,4 @@
   - 
 Моя страница в VK https://vk.com/bulatm92
 
-[![]https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:VK.com-logo.svg](https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg](https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg)](https://vk.com/bulatm92)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/240px-VK.com-logo.svg.png)](https://github.com/hamzamohdzubair/redant)
