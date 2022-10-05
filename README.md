@@ -4,4 +4,4 @@
   - :bomb: Хочу научится делать крутые необычные сайты 
   - 
 Моя страница в VK
-[![](https://sun9-44.userapi.com/impg/j8q0Q6Jx8Ui54Xn6Ng65Ld1lrokdMmr4E9hkYg/VX9N_O9ffVw.jpg?size=67x58&quality=96&sign=b03a4c7c2264a4470fb69da9239aae39&type=album)](https://github.com/hamzamohdzubair/redant)
+[![](https://sun9-45.userapi.com/impg/VkXhQ2RMGcA2k6LMOdul5YLOU3UL_6dXO66kxg/yYwOTINp53E.jpg?size=56x55&quality=96&sign=4305831327a8b40013a72062ff5940d0&type=album)](https://github.com/hamzamohdzubair/redant)
