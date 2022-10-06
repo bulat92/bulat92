@@ -14,4 +14,6 @@
 [![](https://sun9-24.userapi.com/impg/kCB7pLaPRaAvCjbmnkGjipV_cz-wU8qt36C0UA/m4pSMyC_I0U.jpg?size=25x25&quality=96&sign=72d0e5fdb07bac74d92317b783627a9c&type=album)](https://ru.reactjs.org/)
 [![](https://sun2.ufanet.userapi.com/impg/4bKVJkocAZxVDeWaH9Cdm5pySzFnbaIP3P2oGw/AxbjPf2HqRs.jpg?size=100x25&quality=96&sign=800f9da63f73c5bc44787673445b3842&type=album)](https://react-dnd.github.io/react-dnd/about)
 [![](https://sun9-75.userapi.com/impg/2MVdVHAG1IzD3iCI7ncOzgICnseQNCQlDCBrTg/MxobsNGnbJM.jpg?size=25x25&quality=96&sign=3e935e199d37f37055df4c444b8a7e5b&type=album)](https://gulpjs.com/)
+[![](https://sun2.ufanet.userapi.com/impg/kroRf7uwj_xVFCtnWEB_Juq7SZB1vHCtPKuzdg/XiGgNp69TAM.jpg?size=25x25&quality=96&sign=74f5ce5b83783cc097fcd381330ca23b&type=album)](https://code.visualstudio.com/)
+[![](https://sun9-61.userapi.com/impg/zpridlmHm0_GCbCiItKaGOa9oij5UTU9qhBnaA/Gjk3_17Tmrc.jpg?size=50x25&quality=96&sign=928887fa57a806ec701e9b857e0ff73c&type=album)](https://git-scm.com/)
 
