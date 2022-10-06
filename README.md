@@ -13,5 +13,5 @@
 [![](https://sun9-61.userapi.com/impg/u0svrfCN7hq0feyovKdqNoPuyYxDAUzBSR0IcQ/6cPasIkgwDo.jpg?size=25x25&quality=96&sign=c38cc01ac4d22c81b399f34f32e7dca8&type=album)](https://www.typescriptlang.org/)
 [![](https://sun9-24.userapi.com/impg/kCB7pLaPRaAvCjbmnkGjipV_cz-wU8qt36C0UA/m4pSMyC_I0U.jpg?size=25x25&quality=96&sign=72d0e5fdb07bac74d92317b783627a9c&type=album)](https://ru.reactjs.org/)
 [![](https://sun2.ufanet.userapi.com/impg/4bKVJkocAZxVDeWaH9Cdm5pySzFnbaIP3P2oGw/AxbjPf2HqRs.jpg?size=100x25&quality=96&sign=800f9da63f73c5bc44787673445b3842&type=album)](https://react-dnd.github.io/react-dnd/about)
-[![](https://sun2.ufanet.userapi.com/impg/4bKVJkocAZxVDeWaH9Cdm5pySzFnbaIP3P2oGw/AxbjPf2HqRs.jpg?size=100x25&quality=96&sign=800f9da63f73c5bc44787673445b3842&type=album)](https://gulpjs.com/)
+[![](https://sun9-75.userapi.com/impg/2MVdVHAG1IzD3iCI7ncOzgICnseQNCQlDCBrTg/MxobsNGnbJM.jpg?size=25x25&quality=96&sign=3e935e199d37f37055df4c444b8a7e5b&type=album)](https://gulpjs.com/)
 
