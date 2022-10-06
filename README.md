@@ -5,4 +5,4 @@
 
 Моя страница в VK 
 
-[![](https://sun9-44.userapi.com/impg/j8q0Q6Jx8Ui54Xn6Ng65Ld1lrokdMmr4E9hkYg/VX9N_O9ffVw.jpg?size=67x58&quality=96&sign=b03a4c7c2264a4470fb69da9239aae39&type=album)](https://vk.com/bulatm92)
+[![](https://sun9-35.userapi.com/impg/8-h_3gHnYtMPFKyyGnyNO9qECw913eH5yWZYtA/9kDQDxBExtc.jpg?size=50x50&quality=96&sign=36037d3b78da1be48dae9d2776f56c6b&type=album)](https://vk.com/bulatm92)
